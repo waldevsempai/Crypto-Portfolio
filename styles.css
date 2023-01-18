@@ -146,7 +146,7 @@ a {
   align-items: center;
 }
 
-.header_search input {
+.header__search input {
   all: unset;
   width: 7.5rem;
 }
@@ -182,4 +182,11 @@ a {
 .hero__cta {
   display: flex;
   gap: 1rem;
+}
+
+.whats-netbooks {
+  display: flex;
+  align-items: center;
+  gap: 12.5rem;
+  margin: 6rem auto;
 }
